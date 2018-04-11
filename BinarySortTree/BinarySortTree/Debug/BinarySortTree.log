@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  BinarySortTree.cpp
+f:\program files (x86)\microsoft visual studio 2015\projects\binarysorttree\binarysorttree\binarysorttree.cpp(130): warning C4101: “j”: 未引用的局部变量
+  正在生成代码...
+  BinarySortTree.vcxproj -> F:\Program Files (x86)\Microsoft visual studio 2015\Projects\BinarySortTree\Debug\BinarySortTree.exe
+  BinarySortTree.vcxproj -> F:\Program Files (x86)\Microsoft visual studio 2015\Projects\BinarySortTree\Debug\BinarySortTree.pdb (Full PDB)
